@@ -180,7 +180,7 @@ does not limit its application.
 ［＃ここで字下げ終わり］
 ［＃ここから改行天付き、折り返して２字下げ］
 15.　On the Quantum Theory of Line-Spectra. Part I. D. Kgl. Danske Vidensk. Selsk. Skrifter, naturvid. og math. Afd., 8 Raekke, IV, 1［＃「1」は太字］, 1～36.
-16.　On the Quantum Theory of Line-Spectra. Part II. D. Kgl. Danske Vidensk. Selsk. Skrifter, naturvid. og math. Afd., 8 Raekke, IV. 1［＃「1」はママ］, 37～100.
+16.　On the Quantum Theory of Line-Spectra. Part II. D. Kgl. Danske Vidensk. Selsk. Skrifter, naturvid. og math. Afd., 8 Raekke, IV. 1［＃「1」は底本ではママ］, 37～100.
 ［＃ここから１５字下げ］
 1919
 ［＃ここで字下げ終わり］
@@ -206,7 +206,7 @@ does not limit its application.
 23.　The Difference between Series Spectra of Isotopes, (with P. Ehrenfest). Nature, 109［＃「109」は太字］, 745～746.
 24.　On the Selection Principle of the Quantum Theory. Phil. Mag., 43［＃「43」は太字］, 1112～1116.
 25.　Der Bau der Atome und die physikalischen und chemischen Eigenschaften der Elemente. Zeits. f. Phys., 9［＃「9」は太字］, 1～67.
-26.　On the Quantum Theory of Line-Spectra. Part III. D. Kgl. Danske Vidensk. Selsk. Skrifter. naturvid. og math. Afd., 8 Raekke, IV. 1［＃「1」はママ］, 101～118.
+26.　On the Quantum Theory of Line-Spectra. Part III. D. Kgl. Danske Vidensk. Selsk. Skrifter. naturvid. og math. Afd., 8 Raekke, IV. 1［＃「1」は底本ではママ］, 101～118.
 27.　Om Forklaringen af det periodiske System. Fysisk Tidskr., 20［＃「20」は太字］, 112～115.
 ［＃ここから１５字下げ］
 1923

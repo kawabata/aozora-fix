@@ -315,7 +315,7 @@ http://aozora.gr.jp/accent_separation.html
 
 
 　　十字街の詩
-　　　　［＃ここから横組み］”［＃「”」は下付き］THIS IS THE MANY-TENTACLED TOWN”［＃「”」は下付き］［＃ここで横組み終わり］
+　　　　［＃横組み］”［＃「”」は下付き］THIS IS THE MANY-TENTACLED TOWN”［＃「”」は下付き］［＃横組み終わり］
 　　　　　　　　　――VERHAEREN――
 ここは都會の大十字街
 すべての道路はここにあつまり
@@ -2635,12 +2635,12 @@ http://aozora.gr.jp/accent_separation.html
 りんごのやうに自分達もあれ
 此の眞實に生きよう
 
-［＃ここから横組み］
+［＃横組み］
 ［＃ここから１字下げ］
 “〔Die Humanita:t erst bringt klarheit u:ber die Menschenwelt, und von da aus auch u:ber die Go:tterwelt〕”
 ［＃ここで字下げ終わり］
 ［＃地から１字上げ］―H.Cohen
-［＃ここで横組み終わり］
+［＃横組み終わり］
 
 ［＃ここに土田杏村の「跋」入る］
 

@@ -519,7 +519,7 @@
 ［＃ここで字下げ終わり］
 ［＃改ページ］
 
-　　　［＃ここから割り注］家常茶飯附録［＃ここで割り注終わり］　現代思想（対話）
+　　　［＃割り注］家常茶飯附録［＃割り注終わり］　現代思想（対話）
 
 
 ［＃ここから改行天付き、折り返して１字下げ］
@@ -559,12 +559,12 @@ Traumgekroent.　　　　　　　　　　　　　　詩　　1897　　Leipz
 Advent.　　　　　　　　　　　　　　　　　 詩　　1898　　同右　　　　　　　――
 Am Leben hin.　　　　　　　　　　　　　　 小説　1898　　Stuttgart　　　　 ――
 Zwei Prager Geschichten.　　　　　　　　　小説　1899　　同右　　　　　　　――
-Geschichten vom lieben Gott.　　　　　　　小説　1900　　Leipzig　　　　　 ［＃ここから割り注］三板［＃改行］1908［＃ここで割り注終わり］
-〔Die fru:hen Gedichte.〕（Mir zur Feier 改題）詩　1900　　Leipzig und Berlin ［＃ここから割り注］再板［＃改行］1909［＃ここで割り注終わり］
+Geschichten vom lieben Gott.　　　　　　　小説　1900　　Leipzig　　　　　 ［＃割り注］三板［＃改行］1908［＃割り注終わり］
+〔Die fru:hen Gedichte.〕（Mir zur Feier 改題）詩　1900　　Leipzig und Berlin ［＃割り注］再板［＃改行］1909［＃割り注終わり］
 Die Letzten.　　　　　　　　　　　　　　　小説　1901　　Berlin und Stuttgart――
 Das taegliche Leben.　　　　　　　　　　　脚本　1901　　Muenchen　　　　　――
-Das Buch der Bilder.　　　　　　　　　　　詩　　1902　　Berlin und Stuttgart［＃ここから割り注］再板［＃改行］1906［＃ここで割り注終わり］
-Worpswede.　　　　　　　　　　　　　　　　評論　1903　　Bielefeld und Leipzig［＃ここから割り注］再板［＃改行］1904［＃ここで割り注終わり］
+Das Buch der Bilder.　　　　　　　　　　　詩　　1902　　Berlin und Stuttgart［＃割り注］再板［＃改行］1906［＃割り注終わり］
+Worpswede.　　　　　　　　　　　　　　　　評論　1903　　Bielefeld und Leipzig［＃割り注］再板［＃改行］1904［＃割り注終わり］
 Das Stundenbuch.　　　　　　　　　　　　　詩　　1905　　Leipzig  　　　　 ――
 Die Weise von Liebe und Tod des Cornets
 　Christoph von Rilke.　　　　　　　　　　詩　　1906　　同右　　　　　　　――

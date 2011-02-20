@@ -26,15 +26,15 @@ http://aozora.gr.jp/accent_separation.html
 お花よ、お蝶よ、お駒よ、小春よ。太郎よ、次郎よ、草之助よ。げに御身たちはわがつたなき草笛の最初のききてなりき。
 ［＃改丁］
 
-［＃ここから横組み］TO［＃ここで横組み終わり］
+［＃横組み］TO［＃横組み終わり］
 ［＃改ページ］
 
-［＃ここから横組み］
+［＃横組み］
 〔NE'MU-NO-KI　NE'MU-NO-KI〕
 〔NE'YA　SYANSE'.〕
 〔OKANE'　GA　NATTARA〕
 〔OKYA　SYANSE'.〕
-［＃ここで横組み終わり］
+［＃横組み終わり］
 ［＃改丁］
 
 どんたく

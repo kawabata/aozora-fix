@@ -163,7 +163,7 @@ http://aozora.gr.jp/accent_separation.html
 　　POE に獻ず　――十一月
 
 ［＃天から４字下げ］Leave my loneliness unbroken!
-［＃地から２字上げ］［＃ここから横組み］“Raven”――E. A. Poe［＃ここで横組み終わり］
+［＃地から２字上げ］［＃横組み］“Raven”――E. A. Poe［＃横組み終わり］
 
 密生林《みつせいりん》の眞白《ましろ》い閃《きら》めき
 歩《あゆ》めば、歩むほど林の落葉を――
@@ -1803,7 +1803,7 @@ http://aozora.gr.jp/accent_separation.html
 　　白い蛆蟲の歌　――十月二日
 
 ［＃ここから３字下げ］
-［＃ここから横組み］“Je suis le fils de cette race
+［＃横組み］“Je suis le fils de cette race
 Dont les cerveaux plus que les dents
 Sont solides et sont ardents
 　　　　　Et sont voraces.
@@ -1811,7 +1811,7 @@ Je suis le fils de cette race
 　　　　　Tenace,
 Qui veut, 〔apre`s〕 avoir voulu,
 Encore, encore et encore plus.”
-　　　　　“Ma race.”――Verhaelen.［＃ここで横組み終わり］
+　　　　　“Ma race.”――Verhaelen.［＃横組み終わり］
 ［＃ここで字下げ終わり］
 
 ああどうしても

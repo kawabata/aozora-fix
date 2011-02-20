@@ -519,7 +519,7 @@ Atque omne immensum peragravit mente
 
 　　夕の思ひ
 
-［＃ここから横組み］
+［＃横組み］
 ［＃ここから４字下げ］
 〔“Ou` va l'esprit dans l'homme ? Ou` va l'homme sur terre ?〕
 〔 Seigneur ! Seigneur ! Ou` va la terre dans le ciel ?”〕
@@ -530,7 +530,7 @@ What hope of answer, or redress ?
 Behind the veil! behind the veil !”
 　　　　　―Tennyson : In Memoriam.
 ［＃ここで字下げ終わり］
-［＃ここで横組み終わり］
+［＃横組み終わり］
 
 　　　（一）［＃「（一）」は縦中横］
 
@@ -824,13 +824,13 @@ Behind the veil! behind the veil !”
 
 　　光
 
-［＃ここから横組み］
+［＃横組み］
 ［＃ここから５字下げ］
 “Hail, holy Light, offspring of Heaven, First-born !
  Or of the Eternal coeternal beam !”
 ［＃ここで字下げ終わり］
 ［＃地付き］―Milton.
-［＃ここで横組み終わり］
+［＃横組み終わり］
 
 くしき天地《てんち》の靈となり
 我世にありて道となり
@@ -1144,7 +1144,7 @@ Behind the veil! behind the veil !”
 
 　　馬前の夢
 
-［＃ここから横組み］
+［＃横組み］
 ［＃ここから５字下げ］
 〔“Etre d' un sie`cle entier la d' pense'e et la vie,〕
 〔E'mousser le poignard, de`courager l' envie,〕
@@ -1154,7 +1154,7 @@ Vingt fois contre les dieux jouer le sort du monde,
 Quel reve !!! et ce fut ton destin !”
 ［＃ここで字下げ終わり］
 ［＃地付き］Lamartine : Nouvelles Meditations.
-［＃ここで横組み終わり］
+［＃横組み終わり］
 
 おほ空涵すわだの原
 波間の星は影消えて
@@ -1617,7 +1617,7 @@ Quel reve !!! et ce fut ton destin !”
 
 　　紅葉青山水急流
 
-［＃ここから横組み］
+［＃横組み］
 ［＃ここから５字下げ］
 〔“Er ist dahin, der su:sse Glaube〕
 An Wesen die mein Traum gebar,
@@ -1625,7 +1625,7 @@ Der rauhen Wirklichkeit zum Raube,
 〔Was einst so scho:n, so go:ttlich war”〕
 ［＃ここで字下げ終わり］
 ［＃地付き］――Schiller : Die Ideale.
-［＃ここで横組み終わり］
+［＃横組み終わり］
 
 桐の一葉をさきだてゝ
 浮世の空に音づれし
@@ -2341,7 +2341,7 @@ Der rauhen Wirklichkeit zum Raube,
 
 　　暮鐘
 
-［＃ここから横組み］
+［＃横組み］
 ［＃ここから５字下げ］
 〔“La cloche ! e'cho du ciel place' pre`s de la terre !〕
 〔Voix grondante qui parle a` co^te' du tonnerre,〕
@@ -2349,7 +2349,7 @@ Der rauhen Wirklichkeit zum Raube,
 Vase plein de rumeur qui se vide dans l'air !”
 　　　　　〔Hugo : Les Chants du Cre'puscule.〕
 ［＃ここで字下げ終わり］
-［＃ここで横組み終わり］
+［＃横組み終わり］
 
 森のねぐらに夕鳥を
 麓の里に旅人を
