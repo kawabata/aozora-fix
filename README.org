@@ -50,7 +50,7 @@
 
    5. ローカルマシンのブランチ状態を確認し、fixに切り替えます。
       : git branch （ブランチの状態の確認）
-      : git branch fix （fixブランチへ切り替え）
+      : git checkout fix （fixブランチへ切り替え）
 
    6. 必要なファイルの修正を行います。
 
