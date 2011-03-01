@@ -30,7 +30,7 @@ http://aozora.gr.jp/accent_separation.html
 
 ［＃ここから２字下げ、ページの左右中央に］
 わかき日の饗宴を忍びてこの怪しき紺と青との
-詩集を［＃ここから横組み］“PAN”［＃ここで横組み終わり］とわが「屋上庭園」の友にささぐ
+詩集を［＃横組み］“PAN”［＃横組み終わり］とわが「屋上庭園」の友にささぐ
 ［＃ここで字下げ終わり］
 ［＃改丁］
 
@@ -912,7 +912,7 @@ Poe の頬のやうな手ざはりを、
 
 隣人はよく蚕豆《そらまめ》のなかに立ち、
 雨に濡れた黄花※［＃「くさかんむり／（束＋束）」、66-1］肉《きのはなにんにく》を眺める。
-［＃ここから横組み］“＊Ogamadashi, Mauske”［＃ここで横組み終わり］自慢らしい手つきで
+［＃横組み］“＊Ogamadashi, Mauske”［＃横組み終わり］自慢らしい手つきで
 喞《くは》えたパイプの雁首《がんくび》をぽんとはたく。
 
 隣人は見え坊だ、そりばつてん、
@@ -935,10 +935,10 @@ Poe の頬のやうな手ざはりを、
 青い眼鏡をかけては街《まち》を歩行《ある》き、
 日曜の日には御説教。
 
-［＃ここから横組み］“Changhang-deki no Mariya Sanna
+［＃横組み］“Changhang-deki no Mariya Sanna
 Ne wa yasuka-batten,
 utsukushikaken,
-〔Minasan yo_ ogan de wokinasare.〕”［＃ここで横組み終わり］
+〔Minasan yo_ ogan de wokinasare.〕”［＃横組み終わり］
 ［＃ここから２字下げ］
 ＊　お精がでます、茂助。
 ［＃ここで字下げ終わり］
@@ -1343,10 +1343,10 @@ utsukushikaken,
 
 　　CHONKINA.
 
-［＃ここから横組み］“Chonkina! chonkina!
+［＃横組み］“Chonkina! chonkina!
 Chon-chon kina-kina!
 Chon ga nanoso de,
-Cho-chon ga yoi! ……”［＃ここで横組み終わり］
+Cho-chon ga yoi! ……”［＃横組み終わり］
 
 「赤《あか》い夕日《ゆふひ》、
 活動写真《くわつどうしやしん》見《み》たいなキラキラが、あのやうに、あれ、御覧《ごらん》な。
@@ -1359,7 +1359,7 @@ Cho-chon ga yoi! ……”［＃ここで横組み終わり］
 気《き》まぐれも大概《たいがい》になさいなね、
 あれ、あの手《て》も真赤《まつか》な狐拳《きつねけん》！」
 
-［＃ここから横組み］“Chon-aiko! chon-aiko! ……”［＃ここで横組み終わり］
+［＃横組み］“Chon-aiko! chon-aiko! ……”［＃横組み終わり］
 
 「華魁《おいらん》、ちよいと、御覧《ごらん》なさいな、
 久《しさ》し振《ぶり》で裏門《うらもん》が開《あ》いたと思《おも》つたら、
@@ -1372,7 +1372,7 @@ Cho-chon ga yoi! ……”［＃ここで横組み終わり］
 揚屋町《あげやまち》の通《とほり》を伝馬《てんま》担《かつ》いで奔《はし》るなんて
 銀《ぎん》ちやん、威勢《ゐせい》がいいことねえ。」
 
-［＃ここから横組み］“Chon-aiko! chon-aiko! ……”［＃ここで横組み終わり］
+［＃横組み］“Chon-aiko! chon-aiko! ……”［＃横組み終わり］
 
 「華魁《おいらん》、何《なに》をそんなに見《み》てお出《い》でなの、
 くよくよとさ、
@@ -1383,12 +1383,12 @@ Cho-chon ga yoi! ……”［＃ここで横組み終わり］
 おちんこなんか捲《ま》くるもんぢやありませんつたら、
 小児《こども》は罪《つみ》が無《ない》ことねえ、ほほほ。まあ。」
 
-［＃ここから横組み］“Chonkina! chonkina!
+［＃横組み］“Chonkina! chonkina!
 Chon-chon, kina-kina,
 Chon ga nanoso de,
 Cho-chon ga yoi,
 Aiko de yoi,……
-Chon-aiko! chon-aiko ……”［＃ここで横組み終わり］
+Chon-aiko! chon-aiko ……”［＃横組み終わり］
 
 吉原《よしはら》の中店《ちうみせ》の
 お職《しよく》「小主水《こもんど》」とて、愁《うれ》ひ顔《かほ》の寥《さみ》しい、
@@ -1408,7 +1408,7 @@ Chon-aiko! chon-aiko ……”［＃ここで横組み終わり］
 そのさだまらぬ陰影《かげ》のかげの
 そのなかの幽《かす》かなためいき……
 
-［＃ここから横組み］“Chonkina! Chonkina! ……”［＃ここで横組み終わり］
+［＃横組み］“Chonkina! Chonkina! ……”［＃横組み終わり］
 
 
 格子戸越《かうしどご》しに、赤《あか》い日《ひ》が
@@ -1417,12 +1417,12 @@ Chon-aiko! chon-aiko ……”［＃ここで横組み終わり］
 欄干《てすり》では何時《いつ》までも何時《いつ》までも
 気《き》まぐれな狐拳《きつねけん》。
 
-［＃ここから横組み］“Chon-aiko! chon-aiko,
+［＃横組み］“Chon-aiko! chon-aiko,
 Chon-chon aiko-aiko,
 Chon ga nanoso de
 Cho-chon ga yoi ……”
 
-“Chonkina! chonkina! ……”［＃ここで横組み終わり］
+“Chonkina! chonkina! ……”［＃横組み終わり］
 ［＃地から３字上げ］四十三年七月
 
 　　鬼百合
